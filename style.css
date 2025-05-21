@@ -1,0 +1,24 @@
+header{
+    background-color: blue;
+    padding: 15px;
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    color: azure;
+    padding: 15px;
+    text-align: center;
+}
+img{
+    width: 50%;
+    height: 400px;
+}
+h1{
+    background: aqua;
+    float: center;
+    text-align: center;
+}
+li{
+    background-color: aqua;
+    text-align: center;
+}
